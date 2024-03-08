@@ -26,7 +26,7 @@ body {
 
 }
 .sobre_universo{
-     background-image: -moz-linear-gradient();
+     background-image: -moz-linear-gradient(#3B0050,#3b00501f);
      color: aliceblue;
      display: flex;
      justify-content: center;
