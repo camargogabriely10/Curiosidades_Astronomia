@@ -26,7 +26,7 @@ body {
 
 }
 .sobre_universo{
-     background-image: -moz-linear-gradient(#76059f,#be1cf9);
+     background-image: -moz-linear-gradient(#14031b,#400755);
      color: rgb(0, 0, 0);
      display: flex;
      justify-content: center;
@@ -42,7 +42,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 50px;
-  border-bottom: 2px solid #ffff00b2;
+  border-bottom: 2px solid #9000ffb2;
 }
 
 .sobre_universo-div-conteudo{
