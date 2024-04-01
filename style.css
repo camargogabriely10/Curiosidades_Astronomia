@@ -1,4 +1,4 @@
-{
+*{
   margin: 0;
   padding: 0;
 }
@@ -25,6 +25,13 @@ body {
  font-size: 16px;
 
 }
+.sobre_universo{
+     background-image: -moz-linear-gradient(#14031b,#400755);
+     color: rgb(0, 0, 0);
+     display: flex;
+     justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 
 .sobre_universo-div-conteudo{
   width: 650px;
@@ -36,22 +43,9 @@ body {
   font-size: 45px;
 }
 
-.sobre_universo-
-
-.sobre_universo{
-     background-image: -moz-linear-gradient(#14031b,#400755);
-     color: rgb(0, 0, 0);
-     display: flex;
-     justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-}
 .sobre_universo-imagem{
-  width: 25;
+  width: 25px;
 }
-
-
-
 
 .sobre_universo-paragrafo{
   font-size: 25px;
@@ -60,8 +54,17 @@ body {
 .universo{
   width: 25%;
 }
-.Astronomia-curiosidade{
+
+
+.Astronomia-todas-imagens{
   display: grid;
   grid-template-columns: 33% 33% 33%;
 }
 
+.universo{
+  width: 150px;
+}
+
+.galáxia-universo{
+  width: 30px;
+}
