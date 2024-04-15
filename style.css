@@ -41,7 +41,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 50px;
-  border-bottom: 2px solid #0051ffb2;
+  border-bottom: 2px solid #1d05a2b2;
 }
 
 .sobre_nos-div-conteudo{
@@ -114,7 +114,7 @@ font-size: 45px;
 .rodape-titulo{
   font-size: 25px;
   font-weight: bold;
-  color: #3300ffb2;
+  color: #9000ffb2;
 }
 
 .rodape-imagem{
